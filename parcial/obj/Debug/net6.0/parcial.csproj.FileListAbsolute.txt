@@ -1,0 +1,45 @@
+C:\parcial\bin\Debug\net6.0\parcial.exe
+C:\parcial\bin\Debug\net6.0\parcial.deps.json
+C:\parcial\bin\Debug\net6.0\parcial.runtimeconfig.json
+C:\parcial\bin\Debug\net6.0\parcial.dll
+C:\parcial\bin\Debug\net6.0\parcial.pdb
+C:\parcial\obj\Debug\net6.0\parcial.csproj.AssemblyReference.cache
+C:\parcial\obj\Debug\net6.0\parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\parcial\obj\Debug\net6.0\parcial.AssemblyInfoInputs.cache
+C:\parcial\obj\Debug\net6.0\parcial.AssemblyInfo.cs
+C:\parcial\obj\Debug\net6.0\parcial.csproj.CoreCompileInputs.cache
+C:\parcial\obj\Debug\net6.0\parcial.dll
+C:\parcial\obj\Debug\net6.0\refint\parcial.dll
+C:\parcial\obj\Debug\net6.0\parcial.pdb
+C:\parcial\obj\Debug\net6.0\parcial.genruntimeconfig.cache
+C:\parcial\obj\Debug\net6.0\ref\parcial.dll
+C:\programacion\parcial\bin\Debug\net6.0\parcial.exe
+C:\programacion\parcial\bin\Debug\net6.0\parcial.deps.json
+C:\programacion\parcial\bin\Debug\net6.0\parcial.runtimeconfig.json
+C:\programacion\parcial\bin\Debug\net6.0\parcial.dll
+C:\programacion\parcial\bin\Debug\net6.0\parcial.pdb
+C:\programacion\parcial\obj\Debug\net6.0\parcial.csproj.AssemblyReference.cache
+C:\programacion\parcial\obj\Debug\net6.0\parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\programacion\parcial\obj\Debug\net6.0\parcial.AssemblyInfoInputs.cache
+C:\programacion\parcial\obj\Debug\net6.0\parcial.AssemblyInfo.cs
+C:\programacion\parcial\obj\Debug\net6.0\parcial.csproj.CoreCompileInputs.cache
+C:\programacion\parcial\obj\Debug\net6.0\parcial.dll
+C:\programacion\parcial\obj\Debug\net6.0\refint\parcial.dll
+C:\programacion\parcial\obj\Debug\net6.0\parcial.pdb
+C:\programacion\parcial\obj\Debug\net6.0\parcial.genruntimeconfig.cache
+C:\programacion\parcial\obj\Debug\net6.0\ref\parcial.dll
+C:\Users\MINEDUCYT\Desktop\Parcial 1\parcial\bin\Debug\net6.0\parcial.exe
+C:\Users\MINEDUCYT\Desktop\Parcial 1\parcial\bin\Debug\net6.0\parcial.deps.json
+C:\Users\MINEDUCYT\Desktop\Parcial 1\parcial\bin\Debug\net6.0\parcial.runtimeconfig.json
+C:\Users\MINEDUCYT\Desktop\Parcial 1\parcial\bin\Debug\net6.0\parcial.dll
+C:\Users\MINEDUCYT\Desktop\Parcial 1\parcial\bin\Debug\net6.0\parcial.pdb
+C:\Users\MINEDUCYT\Desktop\Parcial 1\parcial\obj\Debug\net6.0\parcial.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\Parcial 1\parcial\obj\Debug\net6.0\parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\Parcial 1\parcial\obj\Debug\net6.0\parcial.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\Parcial 1\parcial\obj\Debug\net6.0\parcial.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\Parcial 1\parcial\obj\Debug\net6.0\parcial.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\Parcial 1\parcial\obj\Debug\net6.0\parcial.dll
+C:\Users\MINEDUCYT\Desktop\Parcial 1\parcial\obj\Debug\net6.0\refint\parcial.dll
+C:\Users\MINEDUCYT\Desktop\Parcial 1\parcial\obj\Debug\net6.0\parcial.pdb
+C:\Users\MINEDUCYT\Desktop\Parcial 1\parcial\obj\Debug\net6.0\parcial.genruntimeconfig.cache
+C:\Users\MINEDUCYT\Desktop\Parcial 1\parcial\obj\Debug\net6.0\ref\parcial.dll
